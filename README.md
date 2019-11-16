@@ -13,7 +13,7 @@ D'après [superpanda](http://www.jeuxvideo.com/forums/42-1000021-61353839-1-0-1-
 
 Noelshack étant très largement utilisé partout ailleurs, nous avons sauvegardé ce que nous avons pu des stickers de la [RisiBank](https://risibank.fr). 
 
-Une bonne partie de ces images sont donc désormais disponible chez [4shack.org](https://4shack.org/). Le script présent dans ce dépôt permet de remplacer les liens **NoelShack** par des liens **4shack**.
+Une bonne partie de ces images est donc désormais disponible chez [4shack.org](https://4shack.org/). Le script présent dans ce dépôt permet de remplacer les liens **NoelShack** par des liens **4shack**. Additionnellement, en utilisant ce script, les images qui n'ont pas pu être copiées le seront grâce à vous lorsque vous essaierez d'y accéder.
 
 
 # Installation
