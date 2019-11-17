@@ -14,7 +14,7 @@
 (function() {
   'use strict';
 
-  const debug = true;
+  const debug = false;
   const regex = /https?:\/\/image\.noelshack\.com\/fichiers\/((?:\w+\/){2,3}(?:(?:\d+-?){1,})((?:\w+-?){1,})(?:.([0-9a-z]+)))/gm;
   const map = {
     img: ['src', 'title', 'data-original-title'],
