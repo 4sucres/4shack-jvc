@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Remplacement de Noelshack par 4shack
-// @namespace    https://github.com/4sucres/4shack-jvc/
+// @name         Remplacement de NoelShack par 4shack
+// @namespace    https://github.com/4sucres/4shack-userscript/
 // @author		   4shack.org
 // @version      1.1
 // @match        *://*/*
